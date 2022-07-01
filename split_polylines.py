@@ -1,5 +1,5 @@
 # -------------------------------------------------------------------------------
-# Name:        Split_Roads_and_add_new_fields
+# Name:        Split_Polylines_and_add_new_fields
 # Purpose:     intern
 #
 # Author:      rnicolescu
